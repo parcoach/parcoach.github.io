@@ -1,33 +1,24 @@
-## PARCOACH
+# Description of PARCOACH
 
 PARallel COntrol flow Anomaly CHecker is a framework that detects misuse of collectives in parallel applications.
 
-### Markdown
+## List of contributors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Main developers
 
-```markdown
-Syntax highlighted code block
+Emmanuelle SAILLARD (Researcher) - INRIA, France
 
-# Header 1
-## Header 2
-### Header 3
+Pierre HUCHANT (Ph.D) - Bordeaux INP/INRIA, France
 
-- Bulleted
-- List
+### Others
 
-1. Numbered
-2. List
+Denis BARTHOU (Full professor) - Bordeaux INP/INRIA, France
 
-**Bold** and _Italic_ and `Code` text
+Patrick CARRIBAULT (Research Scientist) - CEA, France
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Source code
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esaillar/PARCOACH.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+Github Repository: https://github.com/esaillar/PARCOACH-code
 
