@@ -2,6 +2,8 @@
 
 PARallel COntrol flow Anomaly CHecker is a framework that detects misuse of collectives in parallel applications.
 
+
+
 ## List of contributors
 
 ### Main developers
@@ -16,6 +18,17 @@ Denis BARTHOU (Full professor) - Bordeaux INP/INRIA, France
 
 Patrick CARRIBAULT (Research Scientist) - CEA, France
 
+
+## Related Publications
+
+### Journal articles
+TODO
+
+### Conference articles
+TODO
+
+### Workshop articles
+TODO
 
 
 ## Source code
