@@ -4,17 +4,19 @@ PARallel COntrol flow Anomaly CHecker is a framework that detects misuse of coll
 
 
 
-## List of contributors
+## Partners and Contributors
+
+
 
 ### Main developers
 
-Emmanuelle SAILLARD (Researcher) - INRIA, France
+[Emmanuelle SAILLARD](http://emmanuellesaillard.fr) (Research Scientist) - INRIA, France
 
 Pierre HUCHANT (Ph.D) - Bordeaux INP/INRIA, France
 
 ### Others
 
-Denis BARTHOU (Full professor) - Bordeaux INP/INRIA, France
+[Denis BARTHOU](http://www.labri.fr/perso/barthou/) (Full professor) - Bordeaux INP/INRIA, France
 
 Patrick CARRIBAULT (Research Scientist) - CEA, France
 
