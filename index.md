@@ -1,7 +1,8 @@
-# Description of PARCOACH
+# Overview
 
 PARallel COntrol flow Anomaly CHecker is a framework that detects misuse of collectives in parallel applications.
 
+CeCIL licence
 
 
 ## Partners and Contributors
@@ -46,7 +47,12 @@ Patrick CARRIBAULT (Research Scientist) - CEA, France
 * *Correctness Analysis of MPI-3 Non-Blocking Communications in PARCOACH*, Julien Jaeger, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Proceedings of the European MPI Users' Group Meeting (EuroMPI), pages 16:1-16:2, 2015
 
 
-## Source code
+## Set of Slides
 
+Not available yet
+
+## Give it a try !
+
+Source code available here:
 [Github Repository](https://github.com/esaillar/PARCOACH-code)  
 
