@@ -2,8 +2,6 @@
 
 PARallel COntrol flow Anomaly CHecker is a framework that detects misuse of collectives in parallel applications.
 
-CeCILL-C licence
-
 
 ## Partners and Contributors
 
