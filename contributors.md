@@ -8,7 +8,7 @@ permalink: contributors.html
       <div class="mb-4"></div>
       <h1 class="display-4">Partners and Contributors</h1>
       <a href="http://cpu.labex.u-bordeaux.fr/" target="_blank"><img src="images/Univ_Bx.png" style="width:150px; max-width:100%"/></a>
-      <a href="http://www.inria.fr/" target="_blank"><img src="images/inria_logo.png" style="width:150px; max-width:100%"/></a>
+      <a href="http://www.inria.fr/" target="_blank"><img src="images/Inria_logo.png" style="width:150px; max-width:100%"/></a>
       <a href="https://www.bordeaux-inp.fr/" target="_blank"><img src="images/Logo_INPB.png" style="width:150px; max-width:100%"/></a>
       <h2>List of contributors</h2>
       <p>Main developpers:</p>
