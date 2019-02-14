@@ -10,6 +10,6 @@ layout: default
           <img class="featurette-image img-fluid d-block mx-auto" src="images/overview.pdf" alt="Overview">
         <hr class="my-4">
         <p>The source code is freely available and hosted by GitHub.</p>
-        <a class="btn btn-primary btn-lg" href="https://github.com/esaillar/PARCOACH-code" role="button" target="_blank" style="margin-top:5px"><i class="fab fa-github fa-lg" aria-hidden="true">&nbsp;</i>Source code on GitHub </a>
+        <a class="btn btn-primary btn-lg" href="https://github.com/parcoach/parcoach" role="button" target="_blank" style="margin-top:5px"><i class="fab fa-github fa-lg" aria-hidden="true">&nbsp;</i>Source code on GitHub </a>
       </div>
     </div>
