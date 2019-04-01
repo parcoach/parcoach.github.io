@@ -7,19 +7,21 @@ permalink: publications.html
 
 ### Journal articles
 
-* *PARCOACH: Combining static and dynamic validation of MPI collective communications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Intl. Journal on High Performance Computing Applications (IJHPCA), 28(4):425-434, 2014
+* *PARCOACH: Combining static and dynamic validation of MPI collective communications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Intl. Journal on High Performance Computing Applications (IJHPCA), 28(4):425-434, 2014.  [<a href="https://hal.inria.fr/hal-01078762" target="_blank">pdf</a>] 
 
 ### Conference articles
 
-* *Combining Static and Dynamic Validation of MPI Collective Communications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Proceedings of the European MPI User's Group Meeting (EuroMPI), pages 117-122, 2013
+* *Combining Static and Dynamic Validation of MPI Collective Communications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Proceedings of the European MPI User's Group Meeting (EuroMPI), pages 117-122, 2013. [<a href="https://hal.inria.fr/hal-00920901" target="_blank">pdf</a>]
 
-* *MPI Thread-Level Checking for MPI+OpenMP Applications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, European Conference on Parallel Processing (EuroPar), pages 31-42, 2015
+* *MPI Thread-Level Checking for MPI+OpenMP Applications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, European Conference on Parallel Processing (EuroPar), pages 31-42, 2015. [<a href="https://hal.inria.fr/hal-01199718" target="_blank">pdf</a>]
 
 ### Workshop articles
 
-* *Static Validation of Barriers and Worksharing Constructs in OpenMP Applications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Proc. IntL. Workshop on OpenMP (IWOMP), volume 8766 of Lect. Notes in Computer Science, pages 73-86, 2014
+* *PARCOACH Extension for a Full-Interprocedural Collectives Verification*, Pierre Huchant, Emmanuelle Saillard, Denis Barthou, Hugo Brunie and Patrick Carribault, In _Second International Workshop on Software Correctness for HPC Applications_, Dallas, Texas, USA, November 12, 2018. [<a href="https://hal.inria.fr/hal-01937316/file/correctness_2018.pdf" target="_blank">pdf</a>] 
 
-* *PARCOACH extension for Hybrid Applications with Interprocedural Analysis*, Emmanuelle Saillard, Hugo Brunie, Patrick Carribault, and Denis Barthou, In Tools for High Performance Computing 2015: Proceedings of the 9th International Workshop on Parallel Tools for High Performance Computing, pages 135-146, 2016
+* *Static Validation of Barriers and Worksharing Constructs in OpenMP Applications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Proc. IntL. Workshop on OpenMP (IWOMP), volume 8766 of Lect. Notes in Computer Science, pages 73-86, 2014. [<a href="https://hal.inria.fr/hal-01078759" target="_blank">pdf</a>]
+
+* *PARCOACH extension for Hybrid Applications with Interprocedural Analysis*, Emmanuelle Saillard, Hugo Brunie, Patrick Carribault, and Denis Barthou, In Tools for High Performance Computing 2015: Proceedings of the 9th International Workshop on Parallel Tools for High Performance Computing, pages 135-146, 2016. [<a href="https://hal.inria.fr/hal-01420655" target="_blank">pdf</a>]
 
 ### Posters
 
