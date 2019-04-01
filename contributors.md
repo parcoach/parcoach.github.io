@@ -22,7 +22,7 @@ permalink: contributors.html
       <p>
         <ul>
           <li><a href="http://www.labri.fr/perso/barthou/" target="_blank">Denis Barthou</a> (Full professor) - <i>Bordeaux INP/Inria, France</i></li>
-          <li>Patrick CARRIBAULT (Research Scientist) <i>CEA, France</i></li>
           <li>Hugo Brunie (Ph.D) <i>CEA, France</i></li>
+          <li>Patrick CARRIBAULT (Research Scientist) <i>CEA, France</i></li>
         </ul>
       </p>

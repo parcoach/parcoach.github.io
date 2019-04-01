@@ -4,10 +4,24 @@ title: Publications
 permalink: publications.html
 ---
 
+<div class="mb-4"></div>
+<h1 class="display-4">Related publications</h1>
+<div class="alert alert-info" role="alert">
+  <strong><u>How to cite PARCOACH</u></strong><br/>
+  We recommend you to cite the journal: <strong>E. Saillard et al., “<a href="https://hal.inria.fr/hal-01078762" target="_blank" onclick="return trackOutboundLink('https://hal.inria.fr/hal-01078762');">PARCOACH: Combining static and dynamic validation of MPI collective communications</a>,“ <i>IJHPCA</i>, 2013</strong>.<br/>
+ 
+  <a class="btn btn-primary" href="resources/bibtex/Saillard2013a.bib" role="button" style="margin-top:5px" target="_blank" onclick="return trackOutboundLink('resources/bibtex/Saillard2013a.bib');"><i class="fas fa-cloud-download-alt fa-lg" aria-hidden="true">&nbsp;</i>Bibtex Entry</a>
+</div>
+
 
 ### Journal articles
 
-* *PARCOACH: Combining static and dynamic validation of MPI collective communications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Intl. Journal on High Performance Computing Applications (IJHPCA), 28(4):425-434, 2014.  [<a href="https://hal.inria.fr/hal-01078762" target="_blank">pdf</a>] 
+* *PARCOACH: Combining static and dynamic validation of MPI collective communications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Intl. Journal on High Performance Computing Applications (IJHPCA), 28(4):425-434, 2014.  [<a href="https://hal.archives-ouvertes.fr/hal-01078762/document" target="_blank">pdf</a>] 
+<a title="Web link" href="https://doi.org/10.1007/s11265-018-1430-3" target="_blank" onclick="return trackOutboundLink('https://doi.org/10.1007/s11265-018-1430-3');"><i class="fa fa-globe" aria-hidden="true"></i></a>&nbsp;
+<a title="Article"  href="https://hal.inria.fr/hal-01987848/document" target="_blank" onclick="return trackOutboundLink('https://hal.inria.fr/hal-01987848/document');"><i class="fas fa-file-pdf" aria-hidden="true"></i></a>
+
+
+
 
 ### Conference articles
 
