@@ -15,14 +15,14 @@ permalink: contributors.html
       <p>
         <ul>
           <li><a href="http://emmanuellesaillard.fr" target="_blank">Emmanuelle Saillard</a> (Research Scientist) - <i>Inria, France</i></li>
-          <li>Pierre Huchant (Ph.D) - <i>Univ. of Bordeaux, France</i></li>
+          <li>Pierre Huchant (now Postdoc at LBNL) <i> former Ph.D student of the Univ. of Bordeaux, France</i></li>
         </ul>
       </p>
       <p>Other contributors:</p>
       <p>
         <ul>
           <li><a href="http://www.labri.fr/perso/barthou/" target="_blank">Denis Barthou</a> (Full professor) - <i>Bordeaux INP/Inria, France</i></li>
-          <li>Hugo Brunie (Ph.D) <i>CEA, France</i></li>
+          <li>Hugo Brunie (now Postdoc at LBNL) <i>former Ph.D student at the CEA, France</i></li>
           <li>Patrick CARRIBAULT (Research Scientist) <i>CEA, France</i></li>
         </ul>
       </p>

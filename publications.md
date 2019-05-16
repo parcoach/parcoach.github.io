@@ -23,6 +23,8 @@ permalink: publications.html
 
 ### Conference articles
 
+* *Multi-Valued Expression Analysis for Collective Checking*, Pierre Huchant, Emmanuelle Saillard, Denis Barthou, and Patrick Carribault, European Conference on Parallel Processing (EuroPar), TO APPEAR, 2019.
+
 * *Combining Static and Dynamic Validation of MPI Collective Communications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Proceedings of the European MPI User's Group Meeting (EuroMPI), pages 117-122, 2013. 
 <a title="Web link" href="https://hal.inria.fr/hal-00920901" target="_blank" onclick="return trackOutboundLink('https://hal.inria.fr/hal-00920901');"><i class="fa fa-globe" aria-hidden="true"></i></a>&nbsp;
 <a title="Article"  href="https://hal.inria.fr/hal-00920901/document" target="_blank" onclick="return trackOutboundLink('https://hal.inria.fr/hal-00920901/document');"><i class="fas fa-file-pdf" aria-hidden="true"></i></a>
