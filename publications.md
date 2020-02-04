@@ -8,9 +8,9 @@ permalink: publications.html
 <h1 class="display-4">Related publications</h1>
 <div class="alert alert-info" role="alert">
   <strong><u>How to cite PARCOACH</u></strong><br/>
-  We recommend you to cite the journal: <strong>E. Saillard et al., “<a href="https://hal.inria.fr/hal-01078762" target="_blank" onclick="return trackOutboundLink('https://hal.inria.fr/hal-01078762');">PARCOACH: Combining static and dynamic validation of MPI collective communications</a>,“ <i>IJHPCA</i>, 2013</strong>.<br/>
+  We recommend you to cite the last paper: <strong>P. Huchant et al., “<a href="https://hal.archives-ouvertes.fr/hal-02390025" target="_blank" onclick="return trackOutboundLink('https://hal.archives-ouvertes.fr/hal-02390025');">Multi-Valued Expression Analysis for Collective Checking</a>,“ <i>EuroPar</i>, 2019</strong>.<br/>
  
-  <a class="btn btn-primary" href="resources/bibtex/Saillard2013a.bib" role="button" style="margin-top:5px" target="_blank" onclick="return trackOutboundLink('resources/bibtex/Saillard2013a.bib');"><i class="fas fa-cloud-download-alt fa-lg" aria-hidden="true">&nbsp;</i>Bibtex Entry</a>
+  <a class="btn btn-primary" href="resources/bibtex/Huchant2019a.bib" role="button" style="margin-top:5px" target="_blank" onclick="return trackOutboundLink('resources/bibtex/Huchant2019a.bib');"><i class="fas fa-cloud-download-alt fa-lg" aria-hidden="true">&nbsp;</i>Bibtex Entry</a>
 </div>
 
 
@@ -23,7 +23,9 @@ permalink: publications.html
 
 ### Conference articles
 
-* *Multi-Valued Expression Analysis for Collective Checking*, Pierre Huchant, Emmanuelle Saillard, Denis Barthou, and Patrick Carribault, European Conference on Parallel Processing (EuroPar), TO APPEAR, 2019.
+* *Multi-Valued Expression Analysis for Collective Checking*, Pierre Huchant, Emmanuelle Saillard, Denis Barthou, and Patrick Carribault, European Conference on Parallel Processing (EuroPar), pages 29-43, 2019.
+<a title="Web link" href="https://hal.archives-ouvertes.fr/hal-02390025" target="_blank" onclick="return trackOutboundLink('https://hal.archives-ouvertes.fr/hal-02390025);"><i class="fa fa-globe" aria-hidden="true"></i></a>&nbsp;
+<a title="Article"  href="https://hal.archives-ouvertes.fr/hal-02390025/document" target="_blank" onclick="return trackOutboundLink('https://hal.archives-ouvertes.fr/hal-02390025/document);"><i class="fas fa-file-pdf" aria-hidden="true"></i></a>
 
 * *Combining Static and Dynamic Validation of MPI Collective Communications*, Emmanuelle Saillard, Patrick Carribault, and Denis Barthou, Proceedings of the European MPI User's Group Meeting (EuroMPI), pages 117-122, 2013. 
 <a title="Web link" href="https://hal.inria.fr/hal-00920901" target="_blank" onclick="return trackOutboundLink('https://hal.inria.fr/hal-00920901');"><i class="fa fa-globe" aria-hidden="true"></i></a>&nbsp;
