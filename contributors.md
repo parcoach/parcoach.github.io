@@ -22,8 +22,10 @@ permalink: contributors.html
       <p>
         <ul>
           <li><a href="http://www.labri.fr/perso/barthou/" target="_blank">Denis Barthou</a> (Full professor) - <i>Bordeaux INP/Inria, France</i></li>
+          <li>Van Man NGUYEN <i>PhD student at the CEA, France</i></li>
           <li>Hugo Brunie (now Postdoc at LBNL) <i>former Ph.D student at the CEA, France</i></li>
           <li>Radjasouria Vinayagame (Student at ENSEIRB-MATMECA) <i>intern at Inria from November 2019 to January 2020</i></li>
           <li>Patrick CARRIBAULT (Research Scientist) <i>CEA, France</i></li>
+          <li>Philippe VIROULEAU (engineer) <i>in his spare time</i></li>
         </ul>
       </p>
