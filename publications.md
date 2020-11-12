@@ -37,6 +37,9 @@ permalink: publications.html
 
 ### Workshop articles
 
+
+* *PARCOACH Extension for Static MPI Nonblocking and Persistent Communication Validation*, Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Carribault, In _Fourth International Workshop on Software Correctness for HPC Applications_, 2020. TO APPEAR 
+
 * *PARCOACH Extension for a Full-Interprocedural Collectives Verification*, Pierre Huchant, Emmanuelle Saillard, Denis Barthou, Hugo Brunie and Patrick Carribault, In _Second International Workshop on Software Correctness for HPC Applications_, Dallas, Texas, USA, November 12, 2018. 
 <a title="Web link" href="https://hal.inria.fr/hal-01937316" target="_blank" onclick="return trackOutboundLink('https://hal.inria.fr/hal-01937316');"><i class="fa fa-globe" aria-hidden="true"></i></a>&nbsp;
 <a title="Article"  href="https://hal.inria.fr/hal-01937316/file/correctness_2018.pdf" target="_blank" onclick="return trackOutboundLink('https://hal.inria.fr/hal-01937316/file/correctness_2018.pdf');"><i class="fas fa-file-pdf" aria-hidden="true"></i></a>
