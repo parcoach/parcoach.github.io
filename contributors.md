@@ -16,19 +16,20 @@ permalink: contributors.html
       <p>
         <ul>
           <li><a href="http://emmanuellesaillard.fr" target="_blank">Emmanuelle Saillard</a> (Research Scientist) - <i>Inria, France</i></li>
+          <li><a>Philippe Virouleau</a> (engineer) - <i>Inria/Atos, France</i></li>
           <li><a href="http://www.labri.fr/perso/barthou/" target="_blank">Denis Barthou</a> (Full professor) - <i>Bordeaux INP/Inria, France</i></li>
         </ul>
       </p>
       <p>Other contributors:</p>
       <p>
         <ul>
-          <li>Pierre-Antoine Rouby (Student at University of Bordeaux) <i>intern at Inria from June 2021 to July 2021</i></li>
-          <li>Pierre Huchant (now engineer at Synopsis) <i> former Ph.D student of the Univ. of Bordeaux, France</i></li>
-          <li>Hugo Brunie (now Postdoc at LBNL) <i>former Ph.D student at CEA, France</i></li>
-          <li>Radjasouria Vinayagame (Student at ENSEIRB-MATMECA) <i>intern at Inria from November 2019 to January 2020</i></li>
-          <li>Patrick CARRIBAULT (Research Scientist), <i>CEA, France</i></li>
+          <li>Marc SERGENT (Research Scientist), <i>Atos, France</i></li>
           <li>Julien JAEGER (Research Scientist), <i>CEA, France</i></li>
-          <li>Van Man NGUYEN PhD student, <i>CEA, France</i></li>
-          <li>Philippe VIROULEAU (engineer) <i>in his spare time</i></li>
+          <li>Patrick CARRIBAULT (Research Scientist), <i>CEA, France</i></li>
+          <li>Pierre Huchant (now engineer at Synopsis) <i> former Ph.D student of the Univ. of Bordeaux, France</i></li>
+          <li>Hugo Brunie (now Postdoc at Inria) <i>former Ph.D student at CEA, France</i></li>
+          <li>Van Man NGUYEN (PhD student), <i>CEA, France</i></li>
+          <li>Pierre-Antoine Rouby (Student at Univ. of Bordeaux) <i>intern at Inria from June 2021 to July 2021</i></li>
+          <li>Radjasouria Vinayagame (Student at ENSEIRB-MATMECA) <i>intern at Inria from November 2019 to January 2020</i></li>
         </ul>
       </p>
