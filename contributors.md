@@ -11,6 +11,7 @@ permalink: contributors.html
       <a href="http://www.inria.fr/" target="_blank"><img src="images/Inria_logo.png" style="width:150px; max-width:100%"/></a>
       <a href="https://www.bordeaux-inp.fr/" target="_blank"><img src="images/Logo_INPB.png" style="width:150px; max-width:100%"/></a>
       <a href="https://www.cea.fr/" target="_blank"><img src="images/cea.png" style="width:150px; max-width:100%"/></a>
+      <a href="https://atos.net/fr/" target="_blank"><img src="images/Atos.jpg" style="width:150px; max-width:100%"/></a>
       <h2>List of contributors</h2>
       <p>Main developpers:</p>
       <p>
@@ -23,7 +24,7 @@ permalink: contributors.html
       <p>Other contributors:</p>
       <p>
         <ul>
-          <li>Marc SERGENT (Research Scientist), <i>Atos, France</i></li>
+          <li>Marc SERGENT (R&D HPC Runtime Systems Senior Expert), <i>Atos, France</i></li>
           <li>Julien JAEGER (Research Scientist), <i>CEA, France</i></li>
           <li>Patrick CARRIBAULT (Research Scientist), <i>CEA, France</i></li>
           <li>Pierre Huchant (now engineer at Synopsis) <i> former Ph.D student of the Univ. of Bordeaux, France</i></li>
