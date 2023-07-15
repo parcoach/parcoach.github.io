@@ -6,7 +6,7 @@ layout: default
 
 **PARCOACH** is a **FOSS** (Free and Open-Source Software), with an LGPLv2.1 license, dedicated to the **collective errors detection** in parallel applications.
 
-![Overview parcoach](images/parcoach.png)
+![Overview parcoach](images/parcoach2.png)
 
 The main development repository with issues and merge request is hosted on Inria's GitLab, but a GitHub mirror is also available.
 

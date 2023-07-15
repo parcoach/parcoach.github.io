@@ -23,6 +23,8 @@ permalink: publications.html
 
 ### Conference articles
 
+* *Dynamic Data Race Detection for MPI-RMA Programs*, Tassadit Aitkaci, Marc Sergent, Emmanuelle Saillard, Denis Barthou and Guillaume Papaure, EuroMPI 2021.
+
 * *Multi-Valued Expression Analysis for Collective Checking*, Pierre Huchant, Emmanuelle Saillard, Denis Barthou, and Patrick Carribault, European Conference on Parallel Processing (EuroPar), pages 29-43, 2019.
 <a title="Web link" href="https://hal.archives-ouvertes.fr/hal-02390025" target="_blank" onclick="return trackOutboundLink('https://hal.archives-ouvertes.fr/hal-02390025);"><i class="fa fa-globe" aria-hidden="true"></i></a>&nbsp;
 <a title="Article"  href="https://hal.archives-ouvertes.fr/hal-02390025/document" target="_blank" onclick="return trackOutboundLink('https://hal.archives-ouvertes.fr/hal-02390025/document);"><i class="fas fa-file-pdf" aria-hidden="true"></i></a>
@@ -37,6 +39,8 @@ permalink: publications.html
 
 ### Workshop articles
 
+* *Static Local Concurrency Errors Detection in MPI-RMA Programs*, Emmanuelle Saillard, Marc Sergent, Celia Tassadit Ait Kaci, Denis Barthou, Correctness 2022 - Sixth International Workshop on Software Correctness for HPC Applications, 2022.
+<a title="Article" href="https://inria.hal.science/hal-03882459/file/paper.pdf" target="_blank" onclick="return trackOutboundLink('https://inria.hal.science/hal-03882459/file/paper.pdf');"><i class="fa fa-file-pdf" aria-hidden="true"></i></a>&nbsp;
 
 * *PARCOACH Extension for Static MPI Nonblocking and Persistent Communication Validation*, Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Carribault, In _Fourth International Workshop on Software Correctness for HPC Applications_, 2020. 
 <a title="Web link" href="https://hal-cea.archives-ouvertes.fr/cea-03014171" target="_blank" onclick="return trackOutboundLink('https://hal-cea.archives-ouvertes.fr/cea-03014171');"><i class="fa fa-globe" aria-hidden="true"></i></a>&nbsp; 
